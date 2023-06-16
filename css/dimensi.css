@@ -1,0 +1,23 @@
+.nol {
+  width: 100px;
+  height: 100px;
+  background-color: grey;
+}
+
+.satu{
+  width: 300px;
+  height:200px ;
+  background-color:greenyellow ;
+}
+
+.dua{
+  width:200px ;
+  background-color:yellow ;
+}
+
+.tiga{
+  width: 200px;
+  height: 200px;
+  background-color:goldenrod ;
+  overflow: scroll;
+}
